@@ -63,6 +63,9 @@ form {
     margin: 90px;
 }
 
+#convertirgrados{
+    margin-top: -12%;
+}
 input,
 select {
     background: none;
@@ -267,6 +270,7 @@ select:focus~.barra::before {
     left: 73px;
     font-weight: 700;
     font-size: 20px;
+    margin-left: 10%;
 }
 
 .card {
