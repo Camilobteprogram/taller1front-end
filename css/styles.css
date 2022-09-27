@@ -49,8 +49,8 @@ form {
 }
 #form{
     margin-top: -10%;
-    width: 64%;
-    margin-left: 8%;
+    width: 70%;
+    margin-left: 13%;
 }
 .form {
     width: 100%;
@@ -247,12 +247,6 @@ select:focus~.barra::before {
     width: 100%;
 }
 
-.prueba2 {
-    font-weight: 700;
-    position: relative;
-    top: 11px;
-    right: 18px;
-}
 
 .fa-square-js {
     margin-left: 50%;
@@ -498,6 +492,12 @@ footer {
     background: linear-gradient(to right, #e9df83, #e5a141); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     border-radius: 3rem; 
     text-decoration: none;
+}
+
+#botonregresar:hover{
+    background: #F09819;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #EDDE5D, #F09819);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f7e117, #f79408); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 #iconoregresar{
