@@ -523,3 +523,15 @@ footer {
     padding-top: 3%; 
     padding-right: 3%;
 }
+
+#alineartexto{
+    display: flex;
+    flex-direction: column;
+    padding-right: 5%;
+    align-items: center;
+    justify-content: center;
+}
+
+#espacioregresar-2{
+    margin-top: 10%;
+}
